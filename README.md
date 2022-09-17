@@ -8,6 +8,8 @@
 
 😷 Detect Faces with or without mask using [YoloV5](https://github.com/ultralytics/yolov5). v0.3
 
+Folked from [Serfati](https://github.com/Serfati/yolomask)
+
 Yolo algorithm desc.: [yolo] (https://www.section.io/engineering-education/introduction-to-yolo-algorithm-for-object-detection/#:~:text=YOLO%20algorithm%20employs%20convolutional%20neural,in%20a%20single%20algorithm%20run.)
 
 ## Description
